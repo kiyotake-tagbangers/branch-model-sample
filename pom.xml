@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.kiyotagban</groupId>
 	<artifactId>branchmodel</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>branchmodel</name>
 	<description>Demo project for branch model</description>
 
