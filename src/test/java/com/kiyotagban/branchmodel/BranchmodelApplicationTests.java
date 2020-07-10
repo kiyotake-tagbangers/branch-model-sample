@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BranchmodelApplicationTests {
 
 	@Test
-	void test() {
+	void tests() {
 	}
 
 }
